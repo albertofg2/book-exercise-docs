@@ -16,7 +16,7 @@ How does your implementation work?
 
 NOTE: Be sure to include the branch.
 
-URL: 
+URL: https://github.com/albertofg2/java-components/tree/Practica-2
 
 
 ### Unit Tests Executed
@@ -25,9 +25,11 @@ NOTE: The instructor will execute your unit tests. You only need to list each te
 (e.g. ConfigUtilTest, DataUtilTest, etc). Be sure to include all previous tests, too,
 since you need to ensure you haven't introduced regressions.
 
-- 
-- 
-- 
+- **ConfigUtilTest**
+- **DataUtilTest**
+- **SystemCpuUtilTaskTest**
+- **SystemMemUtilTaskTest**
+- **SystemPerformanceManagerTest**
 
 ### Integration Tests Executed
 
@@ -36,8 +38,9 @@ some exceptions (such as your cloud connectivity tests). In such cases, they'll 
 your code to ensure it's correct. As for the tests you execute, you only need to list each
 test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
 
-- 
-- 
-- 
+- **SensorSimAdapterManagerTest**
+- **DeviceDataManagerTest**
+- **GatewayDeviceAppTest**
+- **SystemPerformanceManagerTest**
 
 EOF.
